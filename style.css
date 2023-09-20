@@ -272,9 +272,9 @@ body.body-loader .loader-animations img{
     width: 250px;
     height: 300px;
     border-radius: 50px;
-    background: linear-gradient(black,rgba(0, 0, 0, 0.301));
+    background-image: url(./assets/marcos-2.jpg);
     background-size: cover;
-    background-position: -210px center;
+    background-position: center;
 }
 
 
