@@ -171,7 +171,11 @@ main {
   margin-top: 20vh;
 }
 
+.center{
 
+  text-align: center;
+
+}
 
 .enterprise ~ .imobiliaria {
   margin-top: 20vh;
